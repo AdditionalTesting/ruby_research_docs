@@ -17,19 +17,19 @@ String
 
  Hash
 
-1. to_a
-2. has_key?
-3. has_value?
+1. to_a = converts hash to array with individual key,value pairs as nested arrays
+2. has_key? = returns boolean value based on whether or not the key given in the argument is present
+3. has_value? = returns boolean value based on whether or not the value given in the argument is present
 
 
 
 
 Time
 
-1. now
+1. now = outputs the current time at the time of exection
 
 
 File
 
-1. exist?
-2. extname
+1. exist? = returns boolean value based on whether or not the file name give as the argument exists
+2. extname = returns the extension of the file give as string in the argument of the method
