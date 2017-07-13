@@ -1,0 +1,35 @@
+String
+
+1. length = returns the length of the string
+2. strip = removes whitespace from both sides on the quotations on the inside
+3. split = splits a string into substrings. Can also take arguments to define delimiters for where the splitting takes place
+4. start_with? = returns a boolean value based on whether or not the string contained within the argument appears at the beggining of the string
+
+
+
+ Array
+
+1. first = returns the first value in an array
+2. delete_at = takes and argument for the position, and deletes the item in that position
+3. delete = takes an argument, and deletes the item defined by that argument
+4. pop = removes the last item in the array
+
+
+ Hash
+
+1. to_a
+2. has_key?
+3. has_value?
+
+
+
+
+Time
+
+1. now
+
+
+File
+
+1. exist?
+2. extname
